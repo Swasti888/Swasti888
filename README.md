@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Swasti 
 
-<!--
-**Swasti888/Swasti888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in web development, AI tools, fintech, and building practical projects.
 
-Here are some ideas to get you started:
+##  Projects I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Investment Policy Tracker
+A privacy-first web app to track insurance and investment policies, premiums, maturity dates, nominees, and estimated returns.
+
+### Expense Tracker
+A simple personal finance app for tracking income, expenses, balance, categories, and CSV export.
+
+### CourtMate
+An AI-powered court clerk prototype that helps users prepare small-claims filing packets.
+
+## 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • TypeScript • React • Python • Git • GitHub
+
+##  Currently Learning
+
+- Frontend development
+- Financial/investment tracking apps
+- AI-powered tools
+- Better GitHub project documentation
+
+##  Connect with me
+
+- GitHub: @Swasti888
+- LinkedIn: https://www.linkedin.com/in/swasti-sharma888/
