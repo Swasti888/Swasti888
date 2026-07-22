@@ -13,7 +13,7 @@ A simple personal finance app for tracking income, expenses, balance, categories
 ### CourtMate
 An AI-powered court clerk prototype that helps users prepare small-claims filing packets.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 HTML • CSS • JavaScript • TypeScript • React • Python • Git • GitHub
 
